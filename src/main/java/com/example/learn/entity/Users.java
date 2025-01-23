@@ -1,9 +1,0 @@
-package com.example.learn.entity;
-
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
-
-@Entity
-@Table(name="users Table")
-public class Users {
-}
